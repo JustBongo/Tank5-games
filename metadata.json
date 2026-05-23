@@ -1,0 +1,6 @@
+{
+  "name": "Tank5 - Unblocked Games",
+  "description": "A green hacker-themed Windows 11 style unblocked games platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

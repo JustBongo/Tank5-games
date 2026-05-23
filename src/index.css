@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .rotate-x-\[60deg\] {
+    transform: rotateX(60deg);
+  }
+}
+
+@keyframes grid-move {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 0 50px;
+  }
+}
